@@ -1,4 +1,4 @@
 # PSA
-this is my first repository
+this is my first git repository.
 <br>
- author GAJENDRA BA 
+Author GAJENDRA BA 
